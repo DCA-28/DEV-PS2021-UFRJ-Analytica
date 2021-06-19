@@ -1,4 +1,4 @@
-# Observações das ideais utilizadas em cada programa
+# Comentários das ideais utilizadas em cada programa
 
 ## Q1
 
